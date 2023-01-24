@@ -1,0 +1,9 @@
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe.config
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.pdb
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.csprojResolveAssemblyReference.cache
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.FrmConsultarCEPs.resources
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.Properties.Resources.resources
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.GenerateResource.Cache
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.exe
+C:\Users\PROGRAMADOR\Desktop\ConfigurarServidor\DW2022\ConsultaCEPCSharp\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.pdb
